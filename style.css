@@ -25,15 +25,15 @@ body {
 
 .loginBtn {
     background-color: var(--primary-color);
-    color: var(--text-gray);
+    color: var(--white-color);
 }
-.ul
-
+.logo{
+    padding: 20px 10px;
+}
 .checklist {
     list-style: none;
     font-size: 20px;
 }
-
 
 
 .hero-section {
